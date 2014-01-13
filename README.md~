@@ -33,7 +33,7 @@ Config mail to send mail config/environments/development.rb
       port: 587,
       domain: "localhost:3000",
       authentication: "plain",
-      user_name: "yourmail@gmail.com",
+      user_name: "yourmail",
       password: "password",
       openssl_verify_mode: 'none'
   }
