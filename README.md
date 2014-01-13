@@ -13,6 +13,8 @@ Add this line to your application's Gemfile:
 Run command 
     
     bundle install
+    
+    wheneverize .
 
     rails generate paypal:install
 
